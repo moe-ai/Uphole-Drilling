@@ -5,4 +5,5 @@ This project develops a ML solution to predict deviation from geological informa
 This project includes the following steps:<br /> 
  1- Data collection <br /> 
  2- Estimation of deviation<br /> 
+ 3- Train model and predict<br /> 
  3- Correction of drilling patterns
